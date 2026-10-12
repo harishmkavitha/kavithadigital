@@ -12,7 +12,7 @@ Edit here, then run:  python3 tools/build.py
 #   GitHub project page:    "https://harishmkavitha.github.io/kavitha-digital"
 # No trailing slash.
 # --------------------------------------------------------------------------
-SITE_URL = "https://www.example.com"
+SITE_URL = SITE_URL = "https://kavithadigital.in"
 
 # Bump after editing CSS/JS so browsers fetch the new files (?v=2, ?v=3 …)
 ASSET_VERSION = "1"
